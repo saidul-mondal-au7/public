@@ -1,0 +1,3 @@
+With reference to the previous assignment which was week_19_day_4Add below features to it:1. CRUD operation for todo list.
+2. Add validationswith express-validator module. 3. Integrate mongoose module and connect to mongodb
+4. Store the list in the database.
